@@ -37,4 +37,5 @@ TYPO3 · PHP · JavaScript · React · SCSS · n8n · Docker/DDEV · Claude Code
 
 ## 📫 Reach me
 
+[anastacodes.github.io](https://anastacodes.github.io/) — my one-pager (press space 🎨) ·
 [LinkedIn](https://www.linkedin.com/in/anasta-goncharova/) — happy to talk TYPO3, agentic development, and automation
